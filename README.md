@@ -4,9 +4,8 @@ Repositori untuk praktek Matakuliah Pemograman API Kelas 5A dan 5B dengan Spesif
 
 Silahkan gunakan perintah git clone untuk melakukan clone repo ini ke Komputer Anda
 
-|                    |                                                                     |
 | ------------------ | ------------------------------------------------------------------- |
-| **Nama Anggota**   | Hanik Hatul Halimah                                   (22104410101) |
+| **Nama**           | Hanik Hatul Halimah                                   (22104410101) |
 | **Kelas**          | TI B                                                                |
 | **Semester**       | 4                                                                   |
 | **Mata Kuliah**    | MULTIMEDIA                                                          |
