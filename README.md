@@ -8,6 +8,6 @@ Silahkan gunakan perintah git clone untuk melakukan clone repo ini ke Komputer A
 | ------------------ | ------------------------------------------------------------------- |
 | **Nama**           | Hanik Hatul Halimah                                   (22104410101) |
 | **Kelas**          | TI B                                                                |
-| **Semester**       | 4                                                                   |
-| **Mata Kuliah**    | MULTIMEDIA                                                          |
+| **Semester**       | 5                                                                   |
+| **Mata Kuliah**    | Pemrograman API                                                     |
 | **Dosen Pengampu** | [Mohammad Faried Rahmat, S.ST., M.Tr.T](https://github.com/mrhmt80) |
